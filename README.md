@@ -1,9 +1,3 @@
-Íme egy professzionálisan összeállított, a szakdolgozatod mérnöki munkájára (COCO Y0 motor, 10 perces aggregáció, inverz validáció) épülő GitHub README.md fájl angol és magyar nyelven.
-
-Ezt a szöveget egy az egyben bemásolhatod a GitHub tárolód `README.md` fájljába.
-
-***
-
 # 🇬🇧 English Version
 
 ## Cocobot - Automated Log Analysis & Suspicion Generation (Robot-Auditor)
